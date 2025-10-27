@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="https://i.imgur.com/HxMlO4Y.png" alt="Banner Gabriel Suigo" width="100%" />
-</p>
-
----
-
 # 👋 ¡Hola! Soy **Gabriel Suigo**
 
 💻 **Full Stack Developer | JavaScript | TypeScript | React | Next.js | Node.js**
