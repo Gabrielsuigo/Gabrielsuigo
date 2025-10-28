@@ -28,4 +28,4 @@ Me gusta crear interfaces limpias y funcionales, y trabajar en equipo para logra
 
 📩 [LinkedIn](https://www.linkedin.com/in/gabrielsuigo)  
 📧 **gaby.jjr10@gmail.com**  
-🌐 [GitHub](https://github.com/Gabrielsuigo)
+🌐 https://github.com/Gabrielsuigo
