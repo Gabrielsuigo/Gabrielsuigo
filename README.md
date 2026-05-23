@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy **Gabriel Suigo**
+# ¡Hola! Soy **Gabriel Suigo**
 
 💻 ** Full Stack Developer | JavaScript | TypeScript | React | Next.js | Node.js | Angular **
 
