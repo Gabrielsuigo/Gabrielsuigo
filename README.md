@@ -1,6 +1,6 @@
 # ¡Hola! Soy **Gabriel Suigo**
 
-💻 ** Full Stack Developer | JavaScript | TypeScript | React | Next.js | Node.js | Angular **
+💻 ** Full Stack Developer | JavaScript | TypeScript | React | Next.js | Tailwind CSS | Node.js | Angular **
 
 Apasionado por la tecnología, el aprendizaje constante y el desarrollo de soluciones web escalables.  
 Me gusta crear interfaces limpias y funcionales, y trabajar en equipo para lograr productos de calidad.
