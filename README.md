@@ -22,6 +22,31 @@ Me gusta crear interfaces limpias y funcionales, y trabajar en equipo para logra
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
 </p>
 
+🚀 Proyectos Destacados
+🐾 VetControl Angular
+
+Sistema de gestión veterinaria desarrollado con Angular.
+
+🚀 Demo en vivo:
+https://veterinaria-angular.vercel.app/
+
+💻 Código fuente:
+https://github.com/Gabrielsuigo/vetcontrol-angular
+
+🛒 Ecommerce Frontend
+
+Ecommerce desarrollado con Next.js y TypeScript.
+
+💻 Código fuente:
+https://github.com/Gabrielsuigo/ecommerce-front
+
+👨‍💼 HR System
+
+Sistema de gestión de recursos humanos.
+
+💻 Código fuente:
+https://github.com/Gabrielsuigo/HR-SYSTEM
+
 ---
 
 ## 📫 Contacto
