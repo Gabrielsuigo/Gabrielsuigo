@@ -27,30 +27,39 @@ Me gusta crear interfaces limpias y funcionales, y trabajar en equipo para logra
 
 Sistema de gestión veterinaria desarrollado con Angular.
 
-🚀 Demo en vivo:
+🚀 Demo en vivo
 https://veterinaria-angular.vercel.app/
 
-💻 Código fuente:
+💻 Código fuente
 https://github.com/Gabrielsuigo/vetcontrol-angular
 
 🛒 Ecommerce Frontend
 
 Ecommerce desarrollado con Next.js y TypeScript.
 
-💻 Código fuente:
+🚀 Demo en vivo
+https://ecommerce-front-black-zeta.vercel.app/
+
+💻 Código fuente
 https://github.com/Gabrielsuigo/ecommerce-front
 
 👨‍💼 HR System
 
 Sistema de gestión de recursos humanos.
 
-💻 Código fuente:
+🚀 Demo en vivo
+https://front-one-umber.vercel.app/
+
+💻 Código fuente
 https://github.com/Gabrielsuigo/HR-SYSTEM
 
----
+📫 Contacto
 
-## 📫 Contacto
+🔗 LinkedIn
+https://www.linkedin.com/in/gabriel-suigo/
 
-📩 https://www.linkedin.com/in/gabriel-suigo/
-📧 **gaby.jjr10@gmail.com**  
-🌐 https://github.com/Gabrielsuigo
+📧 Email
+gaby.jjr10@gmail.com
+
+🌐 GitHub
+https://github.com/Gabrielsuigo
