@@ -23,7 +23,7 @@ Me gusta crear interfaces limpias y funcionales, y trabajar en equipo para logra
 </p>
 
 <p>🚀 Proyectos Destacados</p>
-🐾 VetControl Angular
+<h1>🐾 VetControl Angular</h1>
 
 Sistema de gestión veterinaria desarrollado con Angular.
 
