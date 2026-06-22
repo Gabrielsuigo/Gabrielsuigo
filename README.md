@@ -22,8 +22,8 @@ Me gusta crear interfaces limpias y funcionales, y trabajar en equipo para logra
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
 </p>
 
-<p>🚀 Proyectos Destacados</p>
-<h1>🐾 VetControl Angular</h1>
+<h3>🚀 Proyectos Destacados</h3>
+🐾 VetControl Angular
 
 Sistema de gestión veterinaria desarrollado con Angular.
 
