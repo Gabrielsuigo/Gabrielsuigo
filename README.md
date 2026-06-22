@@ -22,9 +22,10 @@ Me gusta crear interfaces limpias y funcionales, y trabajar en equipo para logra
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
 </p>
 
-<h3>🚀 Proyectos Destacados</h3>
-🐾 VetControl Angular
+<h2>🚀 Proyectos Destacados</h2>
 
+
+<h3>🐾 VetControl Angular</h3>
 Sistema de gestión veterinaria desarrollado con Angular.
 
 🚀 Demo en vivo
@@ -33,8 +34,8 @@ https://veterinaria-angular.vercel.app/
 💻 Código fuente
 https://github.com/Gabrielsuigo/vetcontrol-angular
 
-🛒 Ecommerce Frontend
 
+<h3>🛒 Ecommerce Frontend</h3>
 Ecommerce desarrollado con Next.js y TypeScript.
 
 🚀 Demo en vivo
@@ -43,8 +44,8 @@ https://ecommerce-front-black-zeta.vercel.app/
 💻 Código fuente
 https://github.com/Gabrielsuigo/ecommerce-front
 
-👨‍💼 HR System
 
+<h3>👨‍💼 HR System</h3>
 Sistema de gestión de recursos humanos.
 
 🚀 Demo en vivo
@@ -53,13 +54,13 @@ https://front-one-umber.vercel.app/
 💻 Código fuente
 https://github.com/Gabrielsuigo/HR-SYSTEM
 
-📫 Contacto
 
+<h3>📫 Contacto</h3>
 🔗 LinkedIn
 https://www.linkedin.com/in/gabriel-suigo/
 
-📧 Email
+<h3>📧 Email</h3>
 gaby.jjr10@gmail.com
 
-🌐 GitHub
+<h3>🌐 GitHub</h3>
 https://github.com/Gabrielsuigo
