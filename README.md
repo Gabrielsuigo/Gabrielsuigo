@@ -30,7 +30,7 @@ Me gusta crear interfaces limpias y funcionales, y trabajar en equipo para logra
 
 🚀 Demo en vivo
 https://veterinaria-angular.vercel.app/
-
+<r>
 💻 Código fuente
 https://github.com/Gabrielsuigo/vetcontrol-angular
 
