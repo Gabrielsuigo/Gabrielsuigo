@@ -26,7 +26,7 @@ Me gusta crear interfaces limpias y funcionales, y trabajar en equipo para logra
 
 
 <h3>🐾 VetControl Angular</h3>
-Sistema de gestión veterinaria desarrollado con Angular.
+- Sistema de gestión veterinaria desarrollado con Angular.
 
 🚀 Demo en vivo
 https://veterinaria-angular.vercel.app/
@@ -36,7 +36,7 @@ https://github.com/Gabrielsuigo/vetcontrol-angular
 
 
 <h3>🛒 Ecommerce Frontend</h3>
-Ecommerce desarrollado con Next.js y TypeScript.
+- Ecommerce desarrollado con Next.js y TypeScript.
 
 🚀 Demo en vivo
 https://ecommerce-front-black-zeta.vercel.app/
@@ -46,7 +46,7 @@ https://github.com/Gabrielsuigo/ecommerce-front
 
 
 <h3>👨‍💼 HR System</h3>
-Sistema de gestión de recursos humanos.
+- Sistema de gestión de recursos humanos.
 
 🚀 Demo en vivo
 https://front-one-umber.vercel.app/
